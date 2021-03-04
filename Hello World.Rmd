@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+author: "Snigdha"
+date: "04/03/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## This is a markdown file
+
+
+This is my **data science toolkit Project R Markdown document**. Markdown is a simple formatting syntax for authoring *HTML, PDF, and MS Word* documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
